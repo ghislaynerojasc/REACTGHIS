@@ -58,7 +58,7 @@ const EjercicioPPT = () => {
         <br></br>
         </div>
         <br></br>
-        <div><button onClick={reset}> Reinicia la Jugada </button></div>
+        <div><button type="reset" onClick={reset}> Reinicia la Jugada </button></div>
       
     </>
   );
